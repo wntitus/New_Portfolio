@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 45px;
+    color: #ecf0f1;
+}
+
+nav {
+    background-color: #3498db;
+    height: 80px;
+}
+
+.mainName {
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+    text-shadow: #001133 1px 1px 1.5px;
+}
+
+.homeLink {
+    float: right;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    color: #ecf0f1;
+    text-shadow: #001133 1px 1px 1.5px;
+    margin-top: 25px;
+    margin-right: 15px;
+}
