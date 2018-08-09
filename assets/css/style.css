@@ -1,5 +1,6 @@
 h1 {
     font-family: 'Work Sans', sans-serif;
+    font-weight: 500;
     font-size: 45px;
     color: #ecf0f1;
 }
@@ -69,5 +70,7 @@ nav {
 }
 
 .divText {
-    
+    padding-top: 45px;
+    text-shadow: #001133 1px 1px 1.5px;
+    font-family: 'Josefin Sans', sans-serif;
 }
