@@ -86,6 +86,7 @@ nav {
 .projOneLink {
     text-decoration: none;
     color: #ecf0f1;
+    text-shadow: #001133 3px 3px 1.5px;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 35px;
     position: absolute;
@@ -95,6 +96,7 @@ nav {
 .projTwoLink {
     text-decoration: none;
     color: #ecf0f1;
+    text-shadow: #001133 3px 3px 1.5px;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 35px;
     position: absolute;
@@ -105,10 +107,24 @@ nav {
 .projThreeLink {
     text-decoration: none;
     color: #ecf0f1;
+    text-shadow: #001133 3px 3px 1.5px;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 35px;
     position: absolute;
     margin: 45px;
     margin-left: 1040px;
 }
+
+.projOneDesc {
+    color: #ecf0f1;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 153px;
+}
+
+.projOneLink:hover, .projTwoLink:hover, .projThreeLink:hover {
+    color: #7f8c8d
+}
+
 
