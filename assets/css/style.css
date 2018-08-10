@@ -22,7 +22,7 @@ h3 {
 
 nav {
     background-color: transparent;
-    height: 80px;
+    height: 5rem;
     z-index: 3;
 }
 
@@ -87,6 +87,7 @@ nav {
     height: 300px;
     position: relative;
     bottom: 120px;
+    overflow: auto;
 }
 
 .projOneLink {
@@ -172,6 +173,7 @@ p {
     color: black;
     padding-left: 100px;
 }
+
 
 
 
